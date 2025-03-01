@@ -6,4 +6,4 @@ O objetivo desse projeto é compartilhar um jogo para adivinhar qual o número n
 ### Segundo: Faça um chute de um número 1 a 10
 ### Terceiro: Clique no botão chutar
 ### Quarto: Quando acertar pode iniciar um novo jogo
-### Quinto: Boa diverção 🤹‍♀️
+### Quinto: Boa diversão 🤹‍♀️
